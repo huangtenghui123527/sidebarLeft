@@ -1,0 +1,16 @@
+h1,h2,h3,h4,h5,h6,ol,ul,dl,dt,dd,body,img,p,form,textarea{margin:0;padding:0;}
+body{font:red,14px/2, "微软雅黑" "宋体";background:white;}
+/*a{text-decoration: none;}*/
+ol,dl,ul{list-style:none}
+a{text-decoration: none;}
+.clear:after{content: ".";display:block;clear:both;height:0;overflow:hidden;visibility:hidden;}
+html,body{width:100%;}
+
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
